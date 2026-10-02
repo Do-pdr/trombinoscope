@@ -1,0 +1,43 @@
+   <style>
+        body{background-color: blanchedalmond;}
+        div{
+            background-color: cyan;
+            padding: 20px;
+        }
+        #titre-principal{
+            padding: 20px;
+            font-size: 50px;
+            background-color: blue;
+            color:red;}
+        .fille{
+            color: violet;
+        }
+        .garçon{
+            color:blue;}
+        .Total{
+            color: white;
+            background-color: black;
+        }
+        #remerciement{
+            color: white;
+            background-color: blue;
+        }
+        .card{
+            position: relative;
+            left: 5px;
+        }
+        .pastille1{
+            position: absolute;
+            color: white;
+            background-color: red;
+            padding: 5px 5px ;
+        }
+        .pastille2{
+            position: absolute;
+            color: white;
+            background-color: green;
+            padding: 5px 5px ;
+        }
+    
+    </style>
+
